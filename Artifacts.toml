@@ -1,0 +1,156 @@
+[[FindMUS]]
+arch = "aarch64"
+git-tree-sha1 = "f880ca11610f2f877572c1b1be0ab32b1981b87e"
+os = "macos"
+
+    [[FindMUS.download]]
+    sha256 = "e6c0c98c575e98cdd3d5e3990bf316665b11e730ee24b75a8162058e750d62d5"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.aarch64-apple-darwin.tar.gz"
+[[FindMUS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca339ffd5500090fdc19278ec9ad4f81dd021082"
+libc = "glibc"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "6511de6ad8dd8036baf95c0fbe321daec4e4b929677912f32c0575de65f7e9f4"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[FindMUS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d10d08898f85842d533d63c925933bf9b0c8e8f5"
+libc = "musl"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "531131113e4cc92ef1bf61aa74de7e12d9221ff58d7e965ef2e842979c44cbc1"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.aarch64-linux-musl-cxx11.tar.gz"
+[[FindMUS]]
+arch = "aarch64"
+git-tree-sha1 = "9f6e1ecb1b1bdb0efa9020ba88a03558d4433b79"
+os = "freebsd"
+
+    [[FindMUS.download]]
+    sha256 = "53e32cec9e6db73fe071406095c4f88b0c685088a6074c3a9f47b3a00aeb12de"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.aarch64-unknown-freebsd.tar.gz"
+[[FindMUS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe7052fb9155623b17d3e593b31a16f950866200"
+libc = "glibc"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "bfa7b69688fdd3b4de05fe29d12fe1624c8e1399002a776879fa51ea62ea398d"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[FindMUS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "711776e6d43e04bd15b09cc249f9df5830354d1a"
+libc = "musl"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "e822eceab5f9df5868c73ef8d0c55cca00d7f57a8311d9d49dfc06d9c5b0382e"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[FindMUS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c54f1c247ee728260aab9b2a6a365e2bd4ec08e5"
+libc = "glibc"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "741add71d6b532f17b706cd71c4e00a9a66466f846477895f52dd08c3df43ff1"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[FindMUS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a111413fdf6756870a5e0c215f783e8a4670396"
+libc = "musl"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "b1db486546413f9c21ed2e79b3092fb18290dc8130e7f1a99a3df248d4af15b7"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[FindMUS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a7c185743c3d0ed20f2b727d019269f2614db47d"
+libc = "glibc"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "daa572116930064ec7c6471a235bfb88f6bc22cabc373966c411b35d8685bfb9"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.i686-linux-gnu-cxx11.tar.gz"
+[[FindMUS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86bff05450d501428542970b6bcc4de0ad2a6853"
+libc = "musl"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "bd9dcc6e7c412b79f1b77c042ecab0576746a09d65461171ad924ec560bd81d9"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.i686-linux-musl-cxx11.tar.gz"
+[[FindMUS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6309da6e86d0ed97998f02a209f52a9e9dcd4e14"
+libc = "glibc"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "71128a7357175e1ca8cd98daadab7f8f083a918c3b96ed28d33658b309c4c958"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[FindMUS]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d7f7a066a818be915f19a483176005317c72eb7"
+libc = "glibc"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "97a5e02ea8d0e2a6a9f49d796cf74c36025207d97bbaf331b8bc3cdf4aebbf9c"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[FindMUS]]
+arch = "x86_64"
+git-tree-sha1 = "266dfe4e8dcba194c2266c20a1afa2c8b7040da7"
+os = "macos"
+
+    [[FindMUS.download]]
+    sha256 = "a13cc40265a0cfe9827ed0389ed825fef56831564d326451236a8297e3a5c708"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.x86_64-apple-darwin.tar.gz"
+[[FindMUS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c47b2329bbb1b70cc795b1aadcc589d33197d5c3"
+libc = "glibc"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "de18ea280cf0e91f796045a852501621e888972fb848826f1fb3025aa59fe3b7"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[FindMUS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0d9e78c8eccd8f232a09e7ff3c67e4ac81d6e746"
+libc = "musl"
+os = "linux"
+
+    [[FindMUS.download]]
+    sha256 = "8c6b326847d5016bd5f5ba88e948d5e55aa6a720c03ac5e22dc48d04d6492f53"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.x86_64-linux-musl-cxx11.tar.gz"
+[[FindMUS]]
+arch = "x86_64"
+git-tree-sha1 = "a9ab43caa26eb831f948943c0a0fbd2ffcbd50bf"
+os = "freebsd"
+
+    [[FindMUS.download]]
+    sha256 = "a0a928745b759e3ec4bf58e283bfc860a8c0d5451116b7807008b159a0a4a2be"
+    url = "https://github.com/JuliaBinaryWrappers/FindMUS_jll.jl/releases/download/FindMUS-v0.7.0+0/FindMUS.v0.7.0.x86_64-unknown-freebsd.tar.gz"
